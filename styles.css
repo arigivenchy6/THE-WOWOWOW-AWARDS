@@ -1,0 +1,30 @@
+h1 {
+    color:purple;
+}
+h2 {
+    color:blue; 
+}
+h3 {
+    color:green;
+}
+h4 {
+    color:orange;
+}
+h5 {
+    color:red;
+}
+h6 {
+    color:gray;
+}
+.music {
+    font-size:30px;
+    font-family: 'KoHo', sans-serif;
+}
+.important {
+    font-family: 'Spicy Rice', cursive;
+    font-size:30px;
+}
+.lunch {
+     font-family: 'Indie Flower', cursive;
+     font-size:30px;
+}
